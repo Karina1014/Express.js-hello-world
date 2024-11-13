@@ -79,7 +79,8 @@ You see the print in your browser:
 ## Image in DockerHub
 
 You need a Docker Hub account and to update your Go image.
-![alt text](image.png)
+
+![image](https://github.com/user-attachments/assets/5547c34d-4b4b-44c7-89fb-5af57f106716)
 
 
 ## How Deploy with Render:
@@ -95,7 +96,6 @@ Next: You need select the web service and deploy your project.
 
 You see the app in this link:
 
-https://go-hello-world-docker.onrender.com
-
+https://javascript-hello-word.onrender.com
 
 ![image](https://github.com/user-attachments/assets/99cf31ca-f98c-4cdd-8f45-4100711009b3)
