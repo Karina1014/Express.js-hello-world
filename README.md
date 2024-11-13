@@ -1,6 +1,5 @@
 
 # Hello World with Express.js 🌎
-## About the project
 
 This project demonstrates a simple web server created with Express.js, a fast, unopinionated, and minimalist web framework for Node.js. The server responds with a "Hello World" message, showcasing basic Express.js functionality.
 
@@ -59,13 +58,13 @@ You will need:
 
 ### Download image
 ```
-    docker run -it karina1014/hello-world-javascript:v1.0
+    docker pull karina1014/hello-world-javascript:v1.0
 ```
 
 ### View the results
 You can open de CMD and run this :
 ```
-    docker run -it hello-world-javascript
+    docker run -it karina1014/hello-world-javascript:v1.0
 ```
 With this command you will verify that you have the image in your docker.
 
