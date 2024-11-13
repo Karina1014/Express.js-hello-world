@@ -59,7 +59,7 @@ You will need:
 
 ### Download image
 ```
-    docker pull karina1014/hello-world-javascript:v1.0
+    docker run -it karina1014/hello-world-javascript:v1.0
 ```
 
 ### View the results
