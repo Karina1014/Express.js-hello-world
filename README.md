@@ -6,10 +6,10 @@ This project demonstrates a simple web server created with Express.js, a fast, u
 ## Built With
 
 This project build with:
- * Express.js
- * Node.js
- * Dockerfile
- 
+[![Express.js](https://img.shields.io/badge/Express.js-4.17.1-blue?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)](https://expressjs.com/)
+
+[![Node.js](https://img.shields.io/badge/Node.js-16+-green?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/)
+
 
 ## Getting Started with Github: 
 * Clone the repository
@@ -49,39 +49,6 @@ Open any browser and type
    ```
 
 
-## How to run with docker
-You will need:
-
-* Docker - DockerDesktop installed
-* DockerHub account
-
-
-### Download image
-```
-    docker pull karina1014/hello-world-javascript:v1.0
-```
-
-### View the results
-You can open de CMD and run this :
-```
-    docker run -it karina1014/hello-world-javascript:v1.0
-```
-With this command you will verify that you have the image in your docker.
-
-You see the print in your browser: 
-
-
-```
-    localhost:3000
-```
-
-## Image in DockerHub
-
-You need a Docker Hub account and to update your Go image.
-
-![image](https://github.com/user-attachments/assets/5547c34d-4b4b-44c7-89fb-5af57f106716)
-
-
 ## How Deploy with Render:
 
 You need to link your Github account.
@@ -91,10 +58,6 @@ You must log in to Render using your preferred GitHub account.
 
 Next: You need select the web service and deploy your project.
 
-![image](https://github.com/user-attachments/assets/d37875f3-fd4b-4069-826f-19def9d5881f)
 
 You see the app in this link:
 
-https://javascript-hello-word.onrender.com
-
-![image](https://github.com/user-attachments/assets/99cf31ca-f98c-4cdd-8f45-4100711009b3)

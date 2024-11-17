@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello, World! This message is generated using JavaScript');
+  res.send('Hello, World! This message is generated using JavaScript without dockerfile');
 });
 
 const port = 3000;
