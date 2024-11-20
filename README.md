@@ -3,6 +3,12 @@
 
 This project demonstrates a simple web server created with Express.js, a fast, unopinionated, and minimalist web framework for Node.js. The server responds with a "Hello World" message, showcasing basic Express.js functionality.
 
+## 🚨 About the Project 🚨  
+This is an important message related to the project. Please read it carefully before proceeding:  
+
+- **main Branch**: Contains the app with the `Dockerfile`, ready to build and uploaded to DockerHub.  
+- **productionJS Branch**: Contains the deployed version of the app on Render.  
+
 ## Built With
 
 This project build with:
